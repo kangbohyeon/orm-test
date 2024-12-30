@@ -1,0 +1,10 @@
+### POST request
+POST http://localhost:8088
+Content-Type: application/json
+
+{
+  "hi": "hello"
+}
+
+### Get request
+GET http://localhost:8088
